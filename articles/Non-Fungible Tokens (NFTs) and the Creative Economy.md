@@ -1,6 +1,6 @@
 # Non-Fungible Tokens (NFTs) and the Creative Economy: Redefining Digital Ownership, Authenticity, and Monetization
 
-<img width="1248" height="832" alt="Gemini_Generated_Image_ztqhztqhztqhztqh" src="https://github.com/user-attachments/assets/53ae5ee6-204e-4ae2-8669-b00e45da384d" />
+<img width="1248" height="666" alt="Gemini_Generated_Image_ztqhztqhztqhztqh - Copia" src="https://github.com/user-attachments/assets/29e7ae8a-1f27-4abb-8859-fa664afe82c3" />
 
 ## Abstract
 
