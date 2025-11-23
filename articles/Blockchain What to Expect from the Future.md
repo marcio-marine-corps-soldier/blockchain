@@ -178,13 +178,39 @@ As the technology matures, the most significant impact may be the subtle shift i
 
 ## References
 
-1. Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System
-2. Buterin, V. (2013). Ethereum White Paper
-3. Gartner (2023). Hype Cycle for Emerging Technologies
-4. Ethereum Foundation (2022). The Merge Documentation
-5. Bank for International Settlements (2023). Annual Economic Report
-6. European Parliament (2023). MiCA Regulation
-7. World Economic Forum (2023). Blockchain Toolkit for Policymakers
+## Blockchain Technologies and Cryptocurrencies
+
+- **Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System**
+
+Available at: https://bitcoin.org/bitcoin.pdf
+
+- **Buterin, V. (2013). Ethereum White Paper**
+
+Available at: https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf
+
+- **Ethereum Foundation (2022). The Merge Documentation**
+
+Available at: https://ethereum.org/pt-br/roadmap/merge/
+
+## Market Research and Reports
+
+- **Gartner (2023). **Hype Cycle for Emerging Technologies**
+
+Available at: https://www.gartner.com/en/articles/what-s-new-in-the-2023-gartner-hype-cycle-for-emerging-technologies
+
+- **Bank for International Settlements (2023). Annual Economic Report**
+
+Available at: https://www.bis.org/publ/arpdf/ar2023e.pdf
+
+## Regulation and Public Policies
+
+- **European Parliament (2023). MiCA Regulation**
+
+Available at: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/698924/EPRS_BRI(2022)698924_EN.pdf
+
+- **World Economic Forum (2023). Blockchain Toolkit for Policymakers**
+
+Available at: https://www3.weforum.org/docs/WEF_Redesigning_Trust_2020.pdf
 
 ---
 
