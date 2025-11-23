@@ -253,22 +253,26 @@ The true promise of NFTs lies not in speculative trading but in their capacity t
 
 ## References
 
-Relatórios de Mercado e Dados Estatísticos:
+Definições e Fundamentos
+Token não fungível – Wikipédia: https://pt.wikipedia.org/wiki/Token_n%C3%A3o_fung%C3%ADvel
 
-CoinLaw (2025): Fornece os dados estatísticos mais atualizados e abrangentes sobre o tamanho do mercado, categorias líderes e adoção geográfica em 2025.
+Funarte: Entenda o que é e como funcionam os tokens não fungíveis (NFTs): https://www.gov.br/funarte/pt-br/assuntos/noticias/todas-noticias/entenda-o-que-e-e-como-funcionam-os-tokens-nao-fungiveis-nfts
 
-DappRadar (2025): Empresa reconhecida por rastrear e relatar dados de aplicações descentralizadas (dApps), incluindo volumes de trading e usuários ativos em NFTs, citada em várias análises.
+InfoMoney: O que são NFTs?: https://www.infomoney.com.br/guias/nft-token-nao-fungivel/
 
-Binance Research (2025): Produz relatórios aprofundados sobre tendências, incluindo a convergência entre NFTs e ativos físicos.
+CM Capital: Token não fungível (NFT): https://cmcapital.com.br/blog/token-nao-fungiveis/
 
-Análise Setorial e Tendências Futuras:
+Análise Técnica e Comparações
+Trust Wallet: Fungíveis vs Tokens Não Fungíveis: Explicado: https://trustwallet.com/blog/nft/fungiveis-vs-tokens-nao-fungiveis-explicado-1
 
-Gate.io (2025): Oferece uma visão geral acessível e atualizada sobre o estado dos NFTs, focando na mudança para utilitividade e interoperabilidade.
+OneKey: Tokens Fungíveis vs. Não Fungíveis: Uma Explicação: https://onekey.so/blog/pt/ecosystem/fungible-vs-non-fungible-tokens-explained/
 
-BeInCrypto (2025): Traz a perspectiva de players da indústria, como o co-fundador da plataforma Rarible, Alexander Salnikov, sobre a evolução do mercado.
+Phemex: O que são tokens não fungíveis (NFTs): https://phemex.com/pt/academy/what-are-non-fungible-tokens-nfts
 
-Inovações Técnicas e Casos de Uso:
+Análise de Mercado e Perspectivas Atuais
+Gate.io: Os NFTs estão mortos? Uma análise aprofundada...: https://www.gate.com/pt-br/learn/articles/are-nfts-dead-a-deep-dive-into-the-current-state-challenges-and-future-of-the-industry/8841
 
-NFT Evening (2025): Cobre casos de uso emergentes e de nicho, como a convergência entre NFTs e pré-vendas de criptomoedas.
+MIT Sloan Review Brasil: O papel do blockchain nos NFTs: https://mitsloanreview.com.br/como-o-blockchain-escalonou-o-atual-boom-dos-nfts/
 
-Documentação Oficial de Blockchains: Para fundamentos técnicos, referencie a documentação do Padrão ERC-721 (Ethereum) e de *Layer-2s* como Polygon e Immutable X.
+Aplicações Práticas e Casos de Uso
+Iberdrola: Token não fungível: https://www.iberdrola.com/quem-somos/nosso-modelo-inovacao/nft-token-nao-fungivel
