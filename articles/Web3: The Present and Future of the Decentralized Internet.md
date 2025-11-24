@@ -189,7 +189,7 @@ From the access economy to the **verifiable digital ownership** economy.
 
 ## 6. Conclusion
 
-Web3 is not just a technological evolution—it's a restructuring of the power model on the internet. Its success depends less on new blockchains and more on abstracting complexity, ensuring real security, and delivering utility beyond speculation. As scalability, decentralized identity, and interoperability mature, Web3 ceases to be a promise and becomes infrastructure.
+Web3 is not just a technological evolution — it's a restructuring of the power model on the internet. Its success depends less on new blockchains and more on abstracting complexity, ensuring real security, and delivering utility beyond speculation. As scalability, decentralized identity, and interoperability mature, Web3 ceases to be a promise and becomes infrastructure.
 
 The decisive point will not be when everyone uses blockchain, but when nobody realizes they are using it.
 
