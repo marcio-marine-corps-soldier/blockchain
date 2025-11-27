@@ -1,6 +1,6 @@
 # Blockchain: The Architecture of Digital Trust That Will Underpin the Next Internet Era
 
-
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ntb6lwntb6lwntb6" src="https://github.com/user-attachments/assets/3fdf61e9-a11f-4733-9abb-7b52cc4e1762" />
 
 ## Abstract
 
