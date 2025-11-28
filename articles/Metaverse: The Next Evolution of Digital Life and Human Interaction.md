@@ -451,7 +451,3 @@ Tlili, A., Huang, R., Shehata, B., Liu, D., Zhao, J., Metwally, A. H. S., Wang, 
 Wang, Y., Su, Z., Zhang, N., Xing, R., Liu, D., Luan, T. H., & Shen, X. (2022). A survey on metaverse: Fundamentals, security, and privacy. *IEEE Communications Surveys & Tutorials*, 25(1), 319-352. https://doi.org/10.1109/COMST.2022.3202047
 
 Wiederhold, B. K. (2022). Metaverse games: Game changer for healthcare? *Cyberpsychology, Behavior, and Social Networking*, 25(5), 267-269. https://doi.org/10.1089/cyber.2022.29234.editorial
-
----
-
-**Word Count: 8,847 words**
