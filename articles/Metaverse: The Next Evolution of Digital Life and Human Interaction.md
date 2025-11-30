@@ -1,6 +1,6 @@
 # Metaverse: The Next Evolution of Digital Life and Human Interaction
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_2bbwg52bbwg52bbw" src="https://github.com/user-attachments/assets/91cf7e02-a42c-455a-b1b0-24903a7d05c8" />
+
 
 ## Abstract
 
