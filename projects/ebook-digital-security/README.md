@@ -1,6 +1,6 @@
 # 📚 Quick Guide: 10 Key Digital Security Practices
 
-<img width="1024" height="1536" alt="CAPA-FINAL" src="https://github.com/user-attachments/assets/d8e0372b-4042-4716-8a3b-79c0686ea92a" />
+<img width="1024" height="1536" alt="CAPA-FINAL" src="https://github.com/user-attachments/assets/df8fb590-ddbd-42a5-9cf9-78109661ba97" />
 
 ## 📖 About the Project
 A complete ebook on digital security developed using advanced prompt engineering techniques with Gemini, DeepSeek, and ChatGPT. This project demonstrates the ability to create high-quality technical content in a structured and efficient way.
